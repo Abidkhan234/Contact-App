@@ -6,7 +6,7 @@ const ContactPart = () => {
       <div className="flex gap-1 items-center">
         <div className="shrink-0">
           <img
-            src="public\Images\Hands Contact.png"
+            src="src\assets\Images\Hands Contact.png"
             className="w-full h-full object-cover"
             alt=""
           />
